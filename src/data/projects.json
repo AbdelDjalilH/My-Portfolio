@@ -1,28 +1,28 @@
 [
     {
         "title": "BenWild Clicker",
-        "imageSrc": "./assets/Benwild.png",
+        "imageSrc": "/assets/Benwild.png",
         "description": "Here is the first group project that I carried out with my classmates. This is a Cookie Clicker type game highlighting our teaching team and in particular our teacher.",
         "skills": ["HTML", "CSS", "Javascript", "Git"],
         "demo": "https://wildcodeschool-2024-02.github.io/JS-RemoteFR-P1-Ram-N-Industries/"
     },
     {
         "title": "AdventureAtmo",
-        "imageSrc": "./assets/adventuresAtmo.png",
+        "imageSrc": "/assets/adventuresAtmo.png",
         "description": "This site will tell you the weather in real time in the city of Tours and will suggest activities to do depending on the weather as well as good restaurants.",
         "skills": ["ReactJS", "CSS", "API", "Git"],
         "demo": "https://aventuresatmo.netlify.app/"
     },
     {
         "title": "CheminVert",
-        "imageSrc": "./assets/cheminVert.png",
+        "imageSrc": "/assets/cheminVert.png",
         "description": "This site, created in 36 hours with colleagues we don't know, aims to offer Parisians activities to disconnect and nature around the Ile de France region",
         "skills": ["ReactJS", "CSS", "TailWind", "Git"],
         "demo": "https://lecheminvert.netlify.app/"
     },
     {
         "title": "Eating Nam Nam",
-        "imageSrc": "./assets/eatingNamNam.png",
+        "imageSrc": "/assets/eatingNamNam.png",
         "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Vitae eos nisi accusantium ex, natus omnis exercitationem a voluptate adipisci sint dignissimo",
         "skills": ["ReactJS","TailWind", "MySQL", "Git"],
         "demo": ""
