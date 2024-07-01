@@ -1,9 +1,5 @@
 import styles from "./ProjectCard.module.css";
 import PropTypes from "prop-types";
-import adventuresAtmo from "../../../assets/projects/adventuresAtmo.png";
-import Benwild from "../../../assets/projects/Benwild.png";
-import cheminVert from "../../../assets/projects/cheminVert.png";
-import eatingNamNam from "../../../assets/projects/eatingNamNam.png";
 
 function ProjectCard({
   project: { title, imageSrc, description, skills, demo, source },

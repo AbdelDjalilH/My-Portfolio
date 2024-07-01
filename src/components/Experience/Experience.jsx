@@ -1,9 +1,6 @@
-import React from "react";
-import skills from "../../data/skills.json";
-import history from "../../data/history.json";
+import skills from "../../data/skills.js";
+import history from "../../data/history.js";
 import styles from "./Experience.module.css";
-import hloc from "../../../assets/experience/hloc.png";
-import sebico from "../../../assets/experience/sebico.png";
 
 function Experience() {
   return (
