@@ -19,7 +19,7 @@ function About() {
             <div className={styles.aboutItemText}>
               <h3>Frontend developer</h3>
               <p>
-                I am a frontend eveloper with experience in building responsive
+                I am a frontend developer with experience in building responsive
                 and optimized sites
               </p>
             </div>
