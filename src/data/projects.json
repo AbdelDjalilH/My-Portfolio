@@ -15,7 +15,7 @@
     },
     {
         "title": "CheminVert",
-        "imageSrc": "../public/assets/projects/cheminVert.png",
+        "imageSrc": "../../public/assets/projects/cheminVert.png",
         "description": "This site, created in 36 hours with colleagues we don't know, aims to offer Parisians activities to disconnect and nature around the Ile de France region",
         "skills": ["ReactJS", "CSS", "TailWind", "Git"],
         "demo": "https://lecheminvert.netlify.app/"
