@@ -2,6 +2,9 @@ import React from "react";
 import skills from "../../data/skills.json";
 import history from "../../data/history.json";
 import styles from "./Experience.module.css";
+import hloc from "../../../assets/experience/hloc.png";
+import sebico from "../../../assets/experience/sebico.png";
+
 function Experience() {
   return (
     <section className={styles.container} id="experience">
