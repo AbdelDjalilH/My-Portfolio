@@ -15,21 +15,21 @@ const projects=[
     {
         title: "AdventureAtmo",
         imageSrc: adventuresAtmo,
-        description: "This site will tell you the weather in real time in the city of Tours and will suggest activities to do depending on the weather as well as good restaurants.",
+        description: "This website will tell you the weather in real time in the city of Tours and will suggest activities to do depending on the weather as well as good restaurants.",
         skills: ["ReactJS", "CSS", "API", "Git"],
         demo: "https://aventuresatmo.netlify.app/"
     },
     {
         title: "CheminVert",
         imageSrc: CheminVert,
-        description: "This site, created in 36 hours with colleagues we don't know, aims to offer Parisians activities to disconnect and nature around the Ile de France region",
+        description: "This website, created in 36 hours with colleagues we don't know, aims to offer Parisians activities to disconnect and nature around the Ile de France region",
         skills: ["ReactJS", "CSS", "TailWind", "Git"],
         demo: "https://lecheminvert.netlify.app/"
     },
     {
         title: "Eating Nam Nam",
         imageSrc: eatingNamNam,
-        description: "This project aims to offer you healthy and delicious cooking recipes. You will have the opportunity to create your own recipes. Do not hesitate to try this site.git a",
+        description: "This project aims to offer you healthy and delicious cooking recipes. You will have the opportunity to create your own recipes. Do not hesitate to try this website",
         skills: ["ReactJS","TailWind", "MySQL", "Git"],
         demo: ""
     }
