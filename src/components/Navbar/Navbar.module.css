@@ -32,7 +32,7 @@
   text-decoration: none;
 }
 .menuBtn {
-  display: block;
+  display: none;
   cursor: pointer;
   height: 4rem;
   width: auto;
@@ -72,5 +72,8 @@
   .menuOpen {
     display: flex;
     z-index: 1;
+  }
+  .menuBtn {
+    display: block;
   }
 }
