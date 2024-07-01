@@ -23,7 +23,7 @@
     {
         "title": "Eating Nam Nam",
         "imageSrc": "../public/assets/projects/eatingNamNam.png",
-        "description": "This project aims to offer you healthy and delicious cooking recipes. You will have the opportunity to create your own recipes. Do not hesitate to try this site.",
+        "description": "This project aims to offer you healthy and delicious cooking recipes. You will have the opportunity to create your own recipes. Do not hesitate to try this site.git a",
         "skills": ["ReactJS","TailWind", "MySQL", "Git"],
         "demo": ""
     }
