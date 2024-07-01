@@ -5,7 +5,7 @@
         "startDate": "March, 2022",
         "endDate" : "February, 2024",
         "experience" : ["Market study, prospecting and customer negotiation", "Management of entry and exit schedules, maintenance and repair"],
-        "imageSrc" : "../assets/hloc.png"    
+        "imageSrc" : "../assets/experience/hloc.png"    
     },
     {
         "role": "QHSE Technician",
@@ -13,7 +13,7 @@
         "startDate": "February, 2019",
         "endDate" : "March, 2022",
         "experience" : ["Carrying out internal audits", "Writing manufacturing and inspection instructions"],
-        "imageSrc" : "../assets/sebico.png"    
+        "imageSrc" : "../assets/experience/sebico.png"    
     }
 
 ]

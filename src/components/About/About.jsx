@@ -1,7 +1,6 @@
-import React from "react";
-import bonhomme from "../../../assets/bonhomme.png";
-import cursor from "../../../assets/cursor.png";
-import laptop from "../../../assets/laptop.png";
+import bonhomme from "../../../assets/about/bonhomme.png";
+import cursor from "../../../assets/about/cursor.png";
+import laptop from "../../../assets/about/laptop.png";
 import styles from "./About.module.css";
 
 function About() {
