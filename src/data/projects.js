@@ -22,7 +22,7 @@ const projects=[
     {
         title: "CheminVert",
         imageSrc: CheminVert,
-        description: "This website, created in 36 hours with colleagues we don't know, aims to offer Parisians activities to disconnect and nature around the Ile de France region",
+        description: "This website, created in 36 hours with colleagues we don't know, aims to offer Parisians activities to disconnect and nature around Paris and its region",
         skills: ["ReactJS", "CSS", "TailWind", "Git"],
         demo: "https://lecheminvert.netlify.app/"
     },
